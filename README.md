@@ -1,6 +1,3 @@
-好的，这是一份针对您提供的 Cloudflare Worker 代码的中文 `readme.md` 文档。
-
-```markdown
 # Fal AI OpenAI 兼容 Worker
 
 本项目是一个 Cloudflare Worker，它充当 Fal AI 图像生成模型的代理，并提供与 OpenAI API 兼容的接口。这使得客户端应用程序可以像调用 OpenAI 的图像 API 一样与 Fal AI 的模型进行交互。
@@ -219,6 +216,5 @@ curl -X POST YOUR_WORKER_URL/v1/chat/completions \
 ```
 (`--no-buffer` 选项在某些 cURL 版本中用于立即显示流式输出)
 
-```
 
 希望这份文档对您有所帮助！
